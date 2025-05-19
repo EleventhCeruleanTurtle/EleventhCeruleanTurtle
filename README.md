@@ -1,22 +1,18 @@
 ## About Me
-Hi, I'm Somewhat new to programming and still learning more every day!
+Hi, I love to programming and enjoy learning more every day!
 
 ### Programming Languages
-- Python
-- HTML/CSS
-- JavaScript
+- Python (AI as well as general programming)
+- HTML/CSS (Normal HTML/CSS and Bootstrap)
+- JavaScript (Regular js, Node.js, React and React Native)
 - Java
-- C# (.NET Framework)
+- C# (.NET Framework and Unity)
 - PHP
 - SQL
+- ASP.NET
 
 ### Currently Learning
-- ASP.NET
-- AI
-- Unity
-- React
-- Node.js
-
+- Godot
 
 
 
