@@ -1,5 +1,5 @@
 ## About Me
-Hi, I love to programming and enjoy learning more every day!
+Hi, I love to program and enjoy learning more every day!
 
 ### Programming Languages
 - Python (AI as well as general programming)
